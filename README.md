@@ -6,7 +6,6 @@ Component         | Technology
 ---               | ---
 Frontend          | ReactJS
 Backend           | Spring Boot 2.0, Java
-Security          | Spring Security, JWT
 Database          | H2 Database, Mysql
 Client Build      | npm, yarn, webpack
 Server Build      | Maven
